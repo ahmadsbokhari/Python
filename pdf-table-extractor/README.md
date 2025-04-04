@@ -35,9 +35,9 @@ Perfect for automating data extraction from multi-page PDFs like reports, invoic
 
 ```bash
 pip install -r requirements.txt
-
+```
 ### 2. Run the script
-
+```
 python extract_tables.py
 ```
 
