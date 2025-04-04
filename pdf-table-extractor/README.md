@@ -39,6 +39,6 @@ pip install -r requirements.txt
 ### 2. Run the script
 
 python extract_tables.py
-
+```
 
 By default, it reads from sample-tables.pdf and writes to named_pdf_tables.xlsx. You can modify the file paths inside the script to use your own.
